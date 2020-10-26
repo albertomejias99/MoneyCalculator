@@ -1,5 +1,9 @@
 package moneycalculator;
 
+import moneycalculator.model.ExchangeRate;
+import moneycalculator.model.Money;
+import moneycalculator.model.CurrencyList;
+import moneycalculator.model.Currency;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
